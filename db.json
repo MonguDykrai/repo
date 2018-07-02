@@ -35,5 +35,17 @@
       "age": 27,
       "nation": "美国"
     }
+  ],
+  "Terminology": [
+    {
+      "Abbr": "BAMS",
+      "Full": "Business Analysis & Management System",
+      "chinese": "业务分析和管理系统"
+    },
+    {
+      "Abbr": "null",
+      "Full": "forecasting system",
+      "chinese": "预测系统"
+    }
   ]
 }
